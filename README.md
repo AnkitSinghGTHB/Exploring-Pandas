@@ -131,4 +131,4 @@ The goal of this project was to evaluate the effectiveness of three machine lear
  
 - [GitHub Repository](https://github.com/AnkitSinghGTHB/Exploring-Pandas)
  
-- [Google Colaboratory Link 1](https://colab.research.google.com/drive/1-XPZagIviLkiZ7vEHnBPIN2JDd8yy2wK?usp=sharing)
+- [Google Colaboratory Link (Accessible by VIT Mail)](https://colab.research.google.com/drive/1-XPZagIviLkiZ7vEHnBPIN2JDd8yy2wK?usp=sharing)
