@@ -38,7 +38,7 @@ The goal of this project was to evaluate the effectiveness of three machine lear
 ## Project Structure 
  
 1. **Dataset Preparation**  
-  - Load and inspect the cardiovascular dataset (`cardiovascular.csv`).
+  - Load and inspect the dataset (`dataset.csv`).
 
   - Analyze and visualize the data using statistical tools and plots.
  
